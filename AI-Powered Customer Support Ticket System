@@ -1,0 +1,31 @@
+# AI-Powered Customer Support Ticket System
+
+## Project Overview
+
+This project uses NLP and Machine Learning techniques to analyze customer support tickets.
+
+## Features
+
+* Ticket Classification
+* Priority Prediction
+* Customer Segmentation using KMeans
+* NLP Text Processing
+* Power BI Dashboard Visualization
+* FastAPI Deployment
+
+## Technologies Used
+
+* Python
+* Scikit-learn
+* FastAPI
+* Power BI
+* NLP
+* Hugging Face
+
+## Dashboard File
+
+final_customer_dashboard.pbix
+
+## Live Deployment URL
+
+https://sonalvarshney0989-final-customer-dasboard-pbix.hf.space
